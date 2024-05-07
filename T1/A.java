@@ -1,5 +1,5 @@
 public class A{
     
-    //Merge Conflicts
+    //Merge Conflicts not happened
        
 }
